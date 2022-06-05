@@ -8,6 +8,7 @@ Arayüz:
 ![image](https://user-images.githubusercontent.com/97691264/172058077-9733f100-cacb-4f30-94e8-a2a8de03650a.png)
 
 Arduino Kodu:
+
       boolean deger;
       int sifir = 0, bir = 0;
 
