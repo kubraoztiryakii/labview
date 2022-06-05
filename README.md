@@ -5,6 +5,7 @@ Blok diyagramı:
 ![image](https://user-images.githubusercontent.com/97691264/172058049-1d60886c-bd37-4f33-9fb2-5b90b26735f6.png)
 
 Arayüz:
+
 ![image](https://user-images.githubusercontent.com/97691264/172058077-9733f100-cacb-4f30-94e8-a2a8de03650a.png)
 
 Arduino Kodu:
